@@ -8,3 +8,6 @@ git commit -m "Este es el primer commit de este archivo"
 git config --list // Ver configuración
 git config --global user.name "Jose C. Cruzado J."
 git config --global user.email "jkcruzado10@gmail.com"
+
+
+git add . // Todo en la carpeta actual
