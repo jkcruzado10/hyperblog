@@ -1,1 +1,10 @@
-Esta es la historia de Jose Cruzado
+Git init
+git status
+git add <nombre del archivo>
+git rm <nombre del archivo> //Cambia de estado el archivo a borrado
+git rm --cached <nombre del archivo> 
+git commit -m "Este es el primer commit de este archivo"
+
+git config --list // Ver configuración
+git config --global user.name "Jose C. Cruzado J."
+git config --global user.email "jkcruzado10@gmail.com"
