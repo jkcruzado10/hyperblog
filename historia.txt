@@ -11,3 +11,12 @@ git config --global user.email "jkcruzado10@gmail.com"
 
 
 git add . // Todo en la carpeta actual
+git log <nombre del archivo> //
+git show 
+
+
+
+git diff <codigo del commit a> <codigo del commit b>
+
+git log <nombre del archivo> // ver el listado de cambios
+git reset <codigo del commit a> --hard / --soft
