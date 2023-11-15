@@ -17,3 +17,15 @@ body{
 #post h1 {
     font-size: 20px;
 }
+
+#cabecera {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+}
+
+#tagline {
+    font-size: 12px;
+}
