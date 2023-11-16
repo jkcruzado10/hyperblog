@@ -29,3 +29,11 @@ body{
 #tagline {
     font-size: 12px;
 }
+
+#footer{
+    background-color: #777;
+    text-align: center;
+    color: white;
+    width: 72%;
+    margin: 0 auto;
+}
